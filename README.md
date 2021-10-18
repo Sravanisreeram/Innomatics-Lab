@@ -20,7 +20,7 @@ Decision Tree
 
 KNN
 
-Step - 3: Performed proper hyperparameter tuning for each model from Step - 2 😢
+Step - 3: Performed proper hyperparameter tuning for each model from Step - 2 
 
 Step - 4: Compared all the models and written my observations i.e. why is one model better than the other?
 
